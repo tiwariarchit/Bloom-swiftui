@@ -1,6 +1,6 @@
 # Bloom 🌱
 
-Bloom is a SwiftUI-based iOS application focused on helping users build healthier habits through progress tracking, mindfulness, breathing exercises, and short guided interventions.
+Bloom is a SwiftUI-based iOS application focused on helping users build healthier habits through progress tracking, mindfulness, breathing exercises, and short guided interventions. This is mainly for users who are addicted to pornography; it helps to kill the urge of pornography.
 
 ## Features
 
